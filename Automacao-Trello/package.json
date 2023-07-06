@@ -1,0 +1,14 @@
+{
+  "name": "automacao-trello",
+  "version": "1.0.0",
+  "description": "Automacao Trello por API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Renato Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
