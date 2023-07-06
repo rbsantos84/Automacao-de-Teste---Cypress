@@ -1,2 +1,2 @@
-# Automacao-de-Teste---Cypress
+# Automacao de Teste Cypress
 Repositório voltado a automações Cypress 
